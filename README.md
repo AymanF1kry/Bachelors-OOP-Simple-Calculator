@@ -46,11 +46,5 @@
 
 ---
 
-## 📄 Project Structure
-
-📁 SimpleCalc_Project/
-├── src/
-└── nbproject/
-
 🙌 Acknowledgements
 Developed by Ayman Fikry bin Asmajuda as part of academic coursework.
