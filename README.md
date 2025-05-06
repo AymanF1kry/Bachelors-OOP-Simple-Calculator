@@ -1,4 +1,4 @@
-# 🔢 Java Simple Calculator – OOP Mini Project
+# Java Simple Calculator – OOP Mini Project
 
 ![Java](https://img.shields.io/badge/Java-Programming-red?logo=java)
 ![NetBeans](https://img.shields.io/badge/NetBeans-IDE-blue?logo=apachenetbeanside)
