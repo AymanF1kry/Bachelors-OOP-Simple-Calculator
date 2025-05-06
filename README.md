@@ -46,5 +46,5 @@
 
 ---
 
-🙌 Acknowledgements
-Developed by Ayman Fikry bin Asmajuda as part of academic coursework.
+## 🙌 Acknowledgements
+- **Developed by Ayman Fikry bin Asmajuda as part of academic coursework.**
